@@ -13,6 +13,7 @@ nginx
 #mongo:3.2
 #nacos/nacos-server:1.4.2
 #zookeeper:3.5
+zookeeper:3.7
 #rocketmqinc/rocketmq
 #styletang/rocketmq-console-ng
 #openjdk:8
@@ -23,5 +24,5 @@ nginx
 #bladex/sentinel-dashboard:1.8.7
 #seataio/seata-server:1.6.1
 #ranchercharts/beats-filebeat:7.3.0
-prom/prometheus:v2.4.3
-grafana/grafana:5.2.4
+#prom/prometheus:v2.4.3
+#grafana/grafana:5.2.4
